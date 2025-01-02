@@ -52,9 +52,9 @@
 
 <!-- 귀여운 이미지 -->
 <p align="center">
-  <img src="https://i.gifer.com/RLax.gif" alt="Image 1" width="200" height="200">
-  <img src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" alt="Image 2" width="200" height="200">
-  <img src="https://media.tenor.com/wQhU_mtd6OIAAAAC/pinocchio-figaro.gif" alt="Image 3" width="200" height="200">
+  <img src="https://i.gifer.com/RLax.gif" alt="Image 1" width="250" height="200">
+  <img src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" alt="Image 2" width="250" height="200">
+  <img src="https://media.tenor.com/wQhU_mtd6OIAAAAC/pinocchio-figaro.gif" alt="Image 3" width="250" height="200">
 </p>
 
 <!-- 중앙 깃허브 정보 -->
