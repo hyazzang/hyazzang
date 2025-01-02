@@ -12,7 +12,8 @@
 
 
 <!-- 메시지 형식의 자기소개 --> 
-![https://github.com/hyazzang/hyazzang/blob/main/chat.svg](https://github.com/hyazzang/hyazzang/blob/main/chat.svg)
+  <img src=https://github.com/hyazzang/hyazzang/blob/main/chat.svg/>
+![https://github.com/hyazzang/hyazzang/blob/main/chat.svg](https://velog.io/@hyazzang))
 
 
 <!-- 테크 스택 --> 
