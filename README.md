@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/RLax.gif"  />
+<img align="right" height="300" width="100%" src="https://i.gifer.com/RLax.gif"  />
 
 ###
 
