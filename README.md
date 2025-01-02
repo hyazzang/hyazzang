@@ -47,12 +47,19 @@
 
 
 <!-- 백준 Solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=soyeon207)](https://solved.ac/soyeon207)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyazzang)](https://solved.ac/hyazzang)
 
 <!-- 깃허브 방문자 수 -->
 <a href="https://github.com/hyazzang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyzzang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
 </div>
 
+
+<!-- 귀여운 이미지 -->
+<p align="center">
+  <img src="https://i.gifer.com/RLax.gif" alt="Image 1" width="300" height="200">
+  <img src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" width="300" height="200">
+  <img src="https://media.tenor.com/wQhU_mtd6OIAAAAC/pinocchio-figaro.gif" alt="Image 3" width="300" height="200">
+</p>
 
 <!-- 중앙 깃허브 정보 -->
 <div align="center">
@@ -66,14 +73,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyazzang&theme=react-dark&bg_color=20232a&hide_border=true&line=d9d2e9&color=d9d2e9" width=94%/>
 </a>
 </div>
-
-
-<!-- 귀여운 이미지 -->
-<p align="center">
-  <img src="https://i.gifer.com/RLax.gif" alt="Image 1" width="300" height="200">
-  <img src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" width="300" height="200">
-  <img src="https://media.tenor.com/wQhU_mtd6OIAAAAC/pinocchio-figaro.gif" alt="Image 3" width="300" height="200">
-</p>
 
 
 <!-- 지렁이 -->
