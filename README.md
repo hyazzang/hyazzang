@@ -18,8 +18,8 @@
 
 ###
 
-<img aligen="left" height="200" width="20%" src="https://i.gifer.com/RLax.gif"  />
-<img aligen="right" height="200" width="30%" src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" />
+<img aligen="left" height="150" width="20%" src="https://i.gifer.com/RLax.gif"  />
+<img aligen="right" height="150" width="30%" src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" />
 
 ###
 
