@@ -36,7 +36,6 @@
 <br><br> -->
 
 <!-- GitAnimals -->
-<a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/hyazzang?pet-id=646583678337797180"
     width="600"
@@ -72,10 +71,7 @@
 </div>
 
 <!-- 팜 -->
-</a>
-  <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{hyazzang}" height="300" width="100%"/>
-</a>
 
 <!-- 지렁이 -->
 <br clear="both">
