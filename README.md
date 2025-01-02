@@ -18,6 +18,11 @@
 
 ###
 
+    <div class="image-container">
+        <img src="https://i.gifer.com/RLax.gif" alt="Image 1">
+        <img src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" alt="Image 2">
+        <img src="image3.jpg" alt="Image 3">
+    </div>
 <img aligen="left" height="150" width="20%" src="https://i.gifer.com/RLax.gif"  />
 <img aligen="right" height="150" width="30%" src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" />
 
