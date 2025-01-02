@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-###
+#센터 파일
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -16,13 +16,13 @@
 </a>
 </div>
 
-###
+#이미지 파일
 
-<div style="display: flex; justify-content: space-between;">
+<p align="center">
   <img src="https://i.gifer.com/RLax.gif" alt="Image 1" width="150">
-  <img src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" alt="Image 2" width="150">
+  <img src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" width="150">
   <img src="https://via.placeholder.com/150" alt="Image 3" width="150">
-</div>
+</p>
 
 <img aligen="left" height="150" width="20%" src="https://i.gifer.com/RLax.gif"  />
 <img aligen="right" height="150" width="30%" src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" />
