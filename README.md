@@ -40,10 +40,6 @@
     src="https://render.gitanimals.org/lines/hyazzang?pet-id=646583678337797180"
     width="600"
     height="120" />
-</a>
-  <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{hyazzang}"/>
-</a>
 
 
 <!-- 백준 Solved.ac 프로필 -->
@@ -74,6 +70,11 @@
 </a>
 </div>
 
+<!-- 팜 -->
+</a>
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{hyazzang}"/>
+</a>
 
 <!-- 지렁이 -->
 <br clear="both">
