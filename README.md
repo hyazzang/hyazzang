@@ -57,7 +57,7 @@
 <!-- 귀여운 이미지 -->
 <p align="center">
   <img src="https://i.gifer.com/RLax.gif" alt="Image 1" width="300" height="200">
-  <img src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" width="300" height="200">
+  <img src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" alt="Image 2" width="300" height="200">
   <img src="https://media.tenor.com/wQhU_mtd6OIAAAAC/pinocchio-figaro.gif" alt="Image 3" width="300" height="200">
 </p>
 
