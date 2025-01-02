@@ -82,4 +82,4 @@
 
 
 <!-- 밑배경 -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f1ebff,10:ead1dc,30:b4a7d6,75:d9d2e9,100:d9d2e9&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f1ebff,10:ead1dc,30:b4a7d6,75:d9d2e9,100:d9d2e9&height=200&section=footer&text=&fontSize=0" width="100%"/>
