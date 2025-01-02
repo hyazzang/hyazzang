@@ -19,7 +19,8 @@
 ###
 
 <img align="right" height="150" width="20%" src="https://i.gifer.com/RLax.gif"  />
-<img align="left" height="200" width="30%" src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" />
+<img align="center" height="200" width="30%" src="https://i.pinimg.com/originals/b8/55/36/b85536f35af144c48d6725f179d8e23e.gif" />
+
 ###
 
 
