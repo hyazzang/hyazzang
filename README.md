@@ -71,8 +71,8 @@
 </div>
 
 <!-- 팜 -->
-</a align="center">
-  <a href="https://github.com/devxb/gitanimals">
+</a>
+  <a align="center" href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{hyazzang}"/>
 </a>
 
