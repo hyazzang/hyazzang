@@ -72,8 +72,8 @@
 
 <!-- 팜 -->
 </a>
-  <a align="center" href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{hyazzang}"/>
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{hyazzang}" width="100%"/>
 </a>
 
 <!-- 지렁이 -->
