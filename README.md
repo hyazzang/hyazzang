@@ -12,9 +12,9 @@
 
 
 <!-- 메시지 형식의 자기소개 --> 
+<a href="https://velog.io/@hyazzang">
   <img src=https://github.com/hyazzang/hyazzang/blob/main/chat.svg/>
-![https://github.com/hyazzang/hyazzang/blob/main/chat.svg](https://velog.io/@hyazzang)]
-
+<a/>
 
 <!-- 테크 스택 --> 
 <!-- ### ⚙️ Tech Stack 
