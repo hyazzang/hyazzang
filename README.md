@@ -73,7 +73,7 @@
 <!-- 팜 -->
 </a>
   <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{hyazzang}" height="200" width="80%"/>
+  <img src="https://render.gitanimals.org/farms/{hyazzang}" height="300" width="100%"/>
 </a>
 
 <!-- 지렁이 -->
