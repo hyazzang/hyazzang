@@ -47,6 +47,8 @@
 <a href="https://github.com/hyazzang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyzzang&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
 </div>
 
+<!-- 팜 -->
+  <img src="https://render.gitanimals.org/farms/{hyazzang}" height="300" width="100%"/>
 
 <!-- 귀여운 이미지 -->
 <p align="center">
@@ -61,9 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hyazzang&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=b4a7d6&count_private=true" width=56% />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyazzang&theme=react-dark&bg_color=20232a&hide_border=true&line=d9d2e9&color=d9d2e9" width=94%/>
 </div>
-
-<!-- 팜 -->
-  <img src="https://render.gitanimals.org/farms/{hyazzang}" height="300" width="100%"/>
   
 <!-- 네임카드 -->
 <div style="width: 100%;">
