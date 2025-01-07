@@ -62,6 +62,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyazzang&theme=react-dark&bg_color=20232a&hide_border=true&line=d9d2e9&color=d9d2e9" width=94%/>
 </div>
 
+<!-- 네임카드 -->
+<div style="width: 100%;">
+  <a href="https://github.com/hyazzang/hyazzang/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
+
 <!-- 팜 -->
   <img src="https://render.gitanimals.org/farms/{hyazzang}" height="300" width="100%"/>
 
