@@ -55,13 +55,6 @@
   <img src="https://media.tenor.com/wQhU_mtd6OIAAAAC/pinocchio-figaro.gif" alt="Image 3" width="250" height="200">
 </p>
 
-<!-- 네임카드 -->
-<div style="width: 100%;">
-  <a href="https://hyazzang.tistory.com">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
-
 <!-- 중앙 깃허브 정보 -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyazzang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=b4a7d6&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
@@ -71,11 +64,17 @@
 
 <!-- 팜 -->
   <img src="https://render.gitanimals.org/farms/{hyazzang}" height="300" width="100%"/>
+  
+<!-- 네임카드 -->
+<div style="width: 100%;">
+  <a href="https://hyazzang.tistory.com">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 <!-- 지렁이 -->
 <br clear="both">
 <img src="https://github.com/hyazzang/hyazzang/blob/output/github-snake.svg" width="100%">
-
 
 <!-- 밑배경 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f1ebff,10:ead1dc,30:b4a7d6,75:d9d2e9,100:d9d2e9&height=100&section=footer&text=&fontSize=0" width="100%"/>
