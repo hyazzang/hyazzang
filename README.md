@@ -40,6 +40,9 @@
   <a href="pd.hyazzang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pd.hyazzang@gmail.com"/></a>
 </p>
 
+<br>
+<br>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D1B6E1&random=true&width=435&lines=Rember%2C+you're+the+one;who+can+fill+the+world+with+sunshine" alt="Typing SVG" /></a>
 
 <!-- GitAnimals -->
@@ -50,6 +53,9 @@
   height="300"
 />
 </a>
+
+<br>
+<br>
 
 <!-- 귀여운 이미지 -->
 <p align="center">
