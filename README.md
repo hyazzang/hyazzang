@@ -57,7 +57,7 @@
 
 <!-- 네임카드 -->
 <div style="width: 100%;">
-  <a href="https://github.com/hyazzang/hyazzang/blame/main/welcome.svg">
+  <a href="[https://github.com/hyazzang/hyazzang/blame/main/welcome.svg](https://hyazzang.tistory.com/)">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
