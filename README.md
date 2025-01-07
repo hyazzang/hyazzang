@@ -55,18 +55,18 @@
   <img src="https://media.tenor.com/wQhU_mtd6OIAAAAC/pinocchio-figaro.gif" alt="Image 3" width="250" height="200">
 </p>
 
-<!-- 중앙 깃허브 정보 -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyazzang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=b4a7d6&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-  <img src="https://github-readme-stats.vercel.app/api?username=hyazzang&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=b4a7d6&count_private=true" width=56% />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyazzang&theme=react-dark&bg_color=20232a&hide_border=true&line=d9d2e9&color=d9d2e9" width=94%/>
-</div>
-
 <!-- 네임카드 -->
 <div style="width: 100%;">
   <a href="https://github.com/hyazzang/hyazzang/blame/main/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
+</div>
+
+<!-- 중앙 깃허브 정보 -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyazzang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=b4a7d6&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyazzang&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=b4a7d6&count_private=true" width=56% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyazzang&theme=react-dark&bg_color=20232a&hide_border=true&line=d9d2e9&color=d9d2e9" width=94%/>
 </div>
 
 <!-- 팜 -->
