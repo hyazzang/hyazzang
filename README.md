@@ -10,7 +10,7 @@
 
 
 <!-- 메시지 형식의 자기소개 --> 
-<a href="https://velog.io/@hyazzang">
+<a href="https://hyazzang.tistory.com">
   <img src=https://github.com/hyazzang/hyazzang/blob/main/chat.svg/>
 <a/>
 
