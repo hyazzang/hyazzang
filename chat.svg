@@ -276,7 +276,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="290" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">LOVE: CAT<tspan class="emoji">🐈</tspan>, tarot<tspan class="emoji">🔮</tspan>, photo<tspan class="emoji">✨</tspan></text>
+    <text x="15" y="27">LOVE: cat <tspan class="emoji">🐈</tspan>, tarot <tspan class="emoji">🔮</tspan>, photo <tspan class="emoji">✨</tspan></text>
     <text x="15" y="50">ISSUE: study coding <tspan class="emoji">👾</tspan></text>
   </g>
 
@@ -301,7 +301,7 @@
   
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="160" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">T story is <a href="https://hyazzang.tistory.com">here</a></text>
+    <text x="15" y="27">My blog is <a href="https://hyazzang.tistory.com">here</a></text>
   </g>
 
   <!-- typing 5 -->
