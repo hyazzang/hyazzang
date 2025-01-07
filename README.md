@@ -18,6 +18,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D1B6E1&random=true&width=435&lines=Rember%2C+you're+the+one;who+can+fill+the+world+with+sunshine" alt="Typing SVG" /></a>
 
+<!-- GitAnimals -->
+<a href="https://render.gitanimals.org/lines/hyazzang?pet-id=646583678337797180">
+<img
+  src="https://render.gitanimals.org/farms/hyazzang"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!-- 테크 스택 --> 
 <!-- ### ⚙️ Tech Stack -->
 <h3 align="center">🔮 My Tech Stack(예정..) 🔮</h3>
@@ -31,12 +40,6 @@
 
 <!-- 백준 Solved.ac 프로필 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyazzang)](https://solved.ac/hyazzang)
-
-<!-- GitAnimals -->
-  <img
-    src="https://render.gitanimals.org/lines/hyazzang?pet-id=646583678337797180"
-    width="600"
-    height="120" />
 
 <!-- 팜
   <img src="https://render.gitanimals.org/farms/{hyazzang}" height="300" width="100%"/>  -->
