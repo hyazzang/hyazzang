@@ -27,17 +27,24 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px;" />
 </p>
 
+<!-- 백준 Solved.ac 프로필 -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyazzang)](https://solved.ac/hyazzang)
+
 <!-- GitAnimals -->
   <img
     src="https://render.gitanimals.org/lines/hyazzang?pet-id=646583678337797180"
     width="600"
     height="120" />
 
-<!-- 백준 Solved.ac 프로필 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyazzang)](https://solved.ac/hyazzang)
-
 <!-- 팜
   <img src="https://render.gitanimals.org/farms/{hyazzang}" height="300" width="100%"/>  -->
+
+<!-- 링크 -->
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://hyazzang.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hyazzang.tistory.com"/></a>&nbsp
+  <a href="pd.hyazzang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pd.hyazzang@gmail.com"/></a>
+</p>
 
 <!-- 귀여운 이미지 -->
 <p align="center">
