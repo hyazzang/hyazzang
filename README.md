@@ -65,14 +65,14 @@
 <br clear="both">
 <img src="https://github.com/hyazzang/hyazzang/blob/output/github-snake.svg" width="100%">
 
-<!-- 네임카드 -->
+<!-- 네임카드 
 <h3 align="center">🔮 My Name Card 🔮</h3>
 <div align="center">
 <div style="width: 100%;">
   <a href="https://hyazzang.tistory.com">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-</div>
+</div> -->
 
 <!-- 밑배경 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f1ebff,10:ead1dc,30:b4a7d6,75:d9d2e9,100:d9d2e9&height=100&section=footer&text=&fontSize=0" width="100%"/>
