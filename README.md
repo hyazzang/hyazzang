@@ -18,7 +18,9 @@
 
 <!-- 테크 스택 --> 
 <!-- ### ⚙️ Tech Stack -->
-<h3 align="center">🔮 My Tech Stack(예정..) 🔮</h3>
+<h3 align="center">
+  🔮 <span style="color: purple"> My Tech Stack(예정..) </span> 🔮
+</h3>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="43" height="43" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" />
