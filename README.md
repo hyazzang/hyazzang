@@ -18,6 +18,8 @@
 
 <!-- 테크 스택 --> 
 <!-- ### ⚙️ Tech Stack -->
+<h2 align="center">🔮 My Tech Stack(예정..) 🔮</h2>
+<div align="center">
 <p align="center">
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="43" height="43" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="43" style="width: 43px; height: 43px; margin-right: 0px; margin-bottom: 0px;" />
@@ -46,6 +48,7 @@
 </p>
 
 <!-- 중앙 깃허브 정보 -->
+<h2 align="center">🔮 My Github Stats 🔮</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyazzang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=b4a7d6&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
   <img src="https://github-readme-stats.vercel.app/api?username=hyazzang&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=D1B6E1&text_color=fff&title_color=b4a7d6&count_private=true" width=56% />
@@ -57,6 +60,8 @@
 <img src="https://github.com/hyazzang/hyazzang/blob/output/github-snake.svg" width="100%">
 
 <!-- 네임카드 -->
+<h2 align="center">🔮 My Name Card 🔮</h2>
+<div align="center">
 <div style="width: 100%;">
   <a href="https://hyazzang.tistory.com">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
